@@ -1,16 +1,20 @@
-### Hi there 👋
+### Ciao 👋
 
-<!--
-**luigimalaguti/luigimalaguti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am computer engineering student at UNIMORE, in Modena, Italy 🇮🇹
 
-Here are some ideas to get you started:
+### Education 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm studying computer engineering at UNIMORE 👨‍💻.
+
+In these years I'm learning some languages, like C, Java, Python, SQL, Shell - Bash, I'm learning development techniques like Desing Patterns and some basic algorithms. In addition, I am also learning UNIX-like and network system architectures.
+
+Well... I'm trying to learn as much as possible 👨‍🎓 (it's a bit difficult 🤫).
+
+### Wrinting ✍
+
+I'm currently writing some repositories for trying to study some subject.
+
+For now, I writed:
+
+- [Learn Design Patterns - Java Edition](https://github.com/luigimalaguti/LearnDesignPatterns-JavaEdition) - ITA 🇮🇹 - [WORK IN PROGRESS 🚧]
+- [Learn Dynamic Languages](https://github.com/luigimalaguti/LearnDynamicLanguages) - ITA 🇮🇹 - [WORK IN PROGRESS 🚧]
