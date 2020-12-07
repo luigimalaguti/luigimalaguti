@@ -10,7 +10,7 @@ In these years I'm learning some languages, like C, Java, Python, SQL, Shell - B
 
 Well... I'm trying to learn as much as possible 👨‍🎓 (it's a bit difficult 🤫).
 
-### Wrinting ✍
+### Writing ✍
 
 I'm currently writing some repositories for trying to study some subject.
 
