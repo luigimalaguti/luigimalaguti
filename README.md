@@ -6,7 +6,7 @@ I am computer engineering student at UNIMORE, in Modena, Italy 🇮🇹
 
 Currently I'm studying computer engineering at UNIMORE 👨‍💻.
 
-In these years I'm learning some languages, like C, Java, Python, SQL, Shell - Bash, I'm learning development techniques like Desing Patterns and some basic algorithms. In addition, I am also learning UNIX-like and network system architectures.
+In these years I'm learning some languages, like C, Java, Python, SQL, Shell - Bash, I'm learning development techniques like Desing Patterns and some basic algorithms. In addition, I am also learning UNIX-like system architectures, computer architectures, like RISC, and network architectures.
 
 Well... I'm trying to learn as much as possible 👨‍🎓 (it's a bit difficult 🤫).
 
