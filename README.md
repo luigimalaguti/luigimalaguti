@@ -18,3 +18,11 @@ For now, I writed:
 
 - [Learn Design Patterns - Java Edition](https://github.com/luigimalaguti/LearnDesignPatterns-JavaEdition) - ITA 🇮🇹 - WORK IN PROGRESS 🚧
 - [Learn Dynamic Languages](https://github.com/luigimalaguti/LearnDynamicLanguages) - ITA 🇮🇹 - WORK IN PROGRESS 🚧
+
+### Worging 💻
+
+I'm working on some designs:
+
+- [The Concierge](https://github.com/luigimalaguti/TheConcierge) 🤖
+  
+  > A simple Python design that allows you to quickly and easily program a Telegram Bot with the concept of Commands, Constraints and Cases.
